@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RCSBalance.ImportRCSData" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImportRCSData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RCSBalance.ImportDataToCompareRCS">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAgAAKAAAACACAAAAAAAAA=</HashCode>
+      <FileName>ImportDataToCompareRCS.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ImportFasterPaymentData" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RCSBalance.ImportFasterPaymentData">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAEAAAAAAAAAEAAAAEAA=</HashCode>
+      <FileName>ImportFasterPaymentData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="RCSBalance.InputDataType">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAAACAAAEAA=</HashCode>
+      <FileName>InputDataType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RCSBalance.MethodType">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAQAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MethodType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
